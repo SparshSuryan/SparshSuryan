@@ -18,7 +18,7 @@ HTML | CSS | JavaScript | React | Git | GitHub
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=sparshsuryan&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=sparshsuryan&show_icons=true&theme=github_dark)
 
 ---
 
