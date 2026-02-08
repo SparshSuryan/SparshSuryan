@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sparsh 👋
 
-<!--
-**SparshSuryan/SparshSuryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Frontend Dev | 🚀 Learning Full Stack  
+🌱 Currently working on: Ecommerce projects  
+🔥 Interests: React, UI/UX, Fitness, Content creation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+HTML | CSS | JavaScript | React | Git | GitHub
+
+---
+
+## 📌 Featured Projects
+🔹 [Ecommerce Frontend](https://sparshsuryan.github.io/ecommerce-frontend/)  
+🔹 More coming soon...
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=sparshsuryan&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/sparshsuryan/
