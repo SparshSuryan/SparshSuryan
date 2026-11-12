@@ -91,11 +91,8 @@ A backend development project using Python, FastAPI, SQLAlchemy, and relational 
 ### `$ github --stats`
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparshsuryan&show_icons=true&theme=transparent&hide_border=true&title_color=8B9CF6&icon_color=8B9CF6&text_color=C9D1D9&ring_color=8B9CF6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sparshsuryan&layout=compact&theme=transparent&hide_border=true&title_color=8B9CF6&text_color=C9D1D9)
-
+  <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
 </div>
 
 ---
