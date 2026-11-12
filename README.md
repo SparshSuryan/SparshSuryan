@@ -35,7 +35,6 @@ My work spans full-stack development, backend engineering, machine learning, and
 ![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA)
 ![C++](https://img.shields.io/badge/C++-1E293B?style=flat-square&logo=cplusplus&logoColor=60A5FA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=FACC15)
-![PHP](https://img.shields.io/badge/PHP-1E293B?style=flat-square&logo=php&logoColor=A78BFA)
 ![SQL](https://img.shields.io/badge/SQL-1E293B?style=flat-square&logo=mysql&logoColor=60A5FA)
 
 **Frontend**
@@ -60,14 +59,12 @@ My work spans full-stack development, backend engineering, machine learning, and
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=FBBF24)
 ![Pandas](https://img.shields.io/badge/Pandas-1E293B?style=flat-square&logo=pandas&logoColor=A78BFA)
 ![PySpark](https://img.shields.io/badge/PySpark-1E293B?style=flat-square&logo=apachespark&logoColor=F97316)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-1E293B?style=flat-square&logo=huggingface&logoColor=FACC15)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F97316)
 ![Docker](https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=38BDF8)
 ![Postman](https://img.shields.io/badge/Postman-1E293B?style=flat-square&logo=postman&logoColor=F97316)
-![Azure](https://img.shields.io/badge/Azure-1E293B?style=flat-square&logo=microsoftazure&logoColor=60A5FA)
 
 ---
 
